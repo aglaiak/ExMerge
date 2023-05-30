@@ -11,6 +11,6 @@ Upon running the script you need to provide the following information:
 
 #### Resulting file 
 
-In the same folder provided earlier, there will be a new excel file named as <code> file_name </code> _merged. 
+In the same folder provided earlier, there will be a new excel file named as <code> file_name_merged </code>. 
 
 
